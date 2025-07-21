@@ -1,0 +1,25 @@
+body{
+    background-image: url(images/nairobi.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+h1 {
+    color: yellow;
+    font-size: 50px;
+    font-family: serif;
+}
+h2 {
+    color: goldenrod;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: 2px;
+    font-style: oblique;
+}
+p {
+    color: yellow;
+}
+
