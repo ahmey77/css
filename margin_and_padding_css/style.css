@@ -1,0 +1,30 @@
+body {
+    background-color: #b56;
+    margin: 0px;
+}
+h1 h3 {
+    background-color: #ccc;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+p {
+    background-color: #cc5;
+    border: 5px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+/* css margin , padding border shorthands */
+div{
+    border: 6px solid yellowgreen;
+    margin: 23px 50px 76px 20px;
+    padding: 23px 56px 76px 20px;
+    background-color: lightblue;
+}

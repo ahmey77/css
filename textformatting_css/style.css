@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(151, 158, 157);
+
+}
+
+h1{
+    border: 2px solid #a54;
+    text-align: center;
+}
+ p{
+    border: 3px inset #b23;
+    text-align: right;
+
+ }
+
+ h2{
+    border: 2px solid #b43;
+    text-align: center;
+
+ }
+p{
+    border: 3px unset #f45;
+    text-align: left;
+}

@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+h1 {
+    text-shadow: 2px 7px 1px hsl(0, 100%, 61%);
+}
+h1:hover{
+    box-shadow: 3px 4px 5px rgb(49, 7, 235);
+}
+
+p {
+    text-shadow: 5px 8px 2px red;
+
+}
+p:hover{
+    box-shadow: 4px 6px 7px #e54;
+}
